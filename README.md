@@ -69,8 +69,6 @@ Unity 기반 게임 클라이언트 개발자로서 MMORPG와 모바일 라이�
 - [시스템 아키텍처](docs/Architecture.md)
 - [전투 및 Ability 시스템 설계](docs/CombatSystem.md)
 - [이벤트 기반 UI 설계](docs/EventDrivenUI.md)
-- [코드 설계 및 리뷰 원칙](docs/CodeReview.md)
-- [기술 의사결정 기록(ADR)](docs/ADR.md)
 
 ### 성능과 안정성
 
@@ -83,10 +81,8 @@ Unity 기반 게임 클라이언트 개발자로서 MMORPG와 모바일 라이�
 ### 라이브 서비스와 배포
 
 - [TCP 재접속 및 상태 복구](docs/TCPReconnect.md)
-- [CI/CD 및 릴리스 엔지니어링](docs/CICD.md)
 - [라이브 서비스 운영 원칙](docs/LiveService.md)
 - [장애 대응과 진단](docs/IncidentResponse.md)
-- [예상 기술 면접 질문](docs/InterviewQuestions.md)
 
 ---
 
