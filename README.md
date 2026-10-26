@@ -153,3 +153,15 @@ flowchart LR
     V --> O[운영 반영]
     O --> R[회고·재발 방지]
 ```
+
+
+---
+
+## 개인 기술 데모: Unity 6 모바일 월드 스트리밍
+
+- [MapSliceStreaming — Android 실기기 시연·설계·문제 해결](MapSliceStreaming/README.md)
+- Unity 6.3 LTS / URP / Addressables / Terrain 청크 스트리밍
+- **2026-10-26:** Android APK 빌드·실행 성공, Terrain GPU Instancing 호환성 문제 해결
+- APK 다운로드: [GitHub Releases](https://github.com/kssbeda/Portfolio/releases) (파일 업로드 후 제공)
+
+이 프로젝트는 전체 Unity 소스 비공개, 핵심 원리 예시 코드와 한국어 기술 문서 공개 방식입니다.
